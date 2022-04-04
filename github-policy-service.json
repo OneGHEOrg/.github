@@ -1,5 +1,5 @@
 {
-  repositoryWhitelist: [
+  "repositoryWhitelist": [
     ".github"
   ]
 }
