@@ -1,7 +1,6 @@
 {
   "repositoryWhitelist": [
     ".github",
-    "test-repo",
-    "foo"
+    "test-repo"
   ]
 }
