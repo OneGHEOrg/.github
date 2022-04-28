@@ -4,6 +4,6 @@
     "test-repo"
   ],
   "branchProtection": {
-    "enforce_admins": false
+    "enforce_admins": true
   }
 }
