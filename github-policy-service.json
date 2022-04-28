@@ -1,6 +1,8 @@
 {
   "repositoryWhitelist": [
-    ".github",
-    "devops-days-austin"
-  ]
+    ".github"
+  ],
+  "branchProtection": {
+    "enforce_admins": false
+  }
 }
