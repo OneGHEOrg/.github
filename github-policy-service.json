@@ -1,7 +1,6 @@
 {
   "repositoryWhitelist": [
-    ".github",
-    "test-repo"
+    ".github"
   ],
   "branchProtection": {
     "enforce_admins": true
