@@ -1,8 +1,5 @@
 {
   "repositoryWhitelist": [
     ".github"
-  ],
-  "branchProtection": {
-    "enforce_admins": false
-  }
+  ]
 }
