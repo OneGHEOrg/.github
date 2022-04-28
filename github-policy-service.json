@@ -1,5 +1,6 @@
 {
   "repositoryWhitelist": [
-    ".github"
+    ".github",
+    "devops-days-austin"
   ]
 }
