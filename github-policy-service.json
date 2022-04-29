@@ -1,9 +1,8 @@
 {
   "repositoryWhitelist": [
-    ".github",
-    "new-repository"
+    ".github"
   ],
   "branchProtection": {
-    "enforce_admins": false
+    "enforce_admins": true
   }
 }
