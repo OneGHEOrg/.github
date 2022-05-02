@@ -3,6 +3,6 @@
     ".github"
   ],
   "branchProtection": {
-    "enforce_admins": false
+    "enforce_admins": true
   }
 }
